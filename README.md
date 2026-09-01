@@ -92,14 +92,6 @@ That is why I am learning the technical side myself. I want to understand what t
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KingAdamas&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=0A1F44&text_color=FFFFFF&icon_color=C8511B&ring_color=C8511B" alt="Derek Blissett GitHub stats" />
-</p>
-
----
-
 <p align="center">
   <strong>The goal is to understand technology well enough to know when, where, and how it should be used.</strong>
 </p>
