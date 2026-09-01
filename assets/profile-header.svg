@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Derek Blissett — Operations, Process, AI and Technology</title>
+  <desc id="desc">A navy and burnt orange professional banner for Derek Blissett's GitHub profile.</desc>
+  <rect width="1200" height="260" rx="18" fill="#0A1F44"/>
+  <path d="M0 212 H1200 V260 H0 Z" fill="#081936"/>
+  <rect x="72" y="54" width="78" height="6" rx="3" fill="#C8511B"/>
+  <rect x="72" y="196" width="1056" height="2" fill="#C8511B" opacity="0.72"/>
+  <circle cx="1082" cy="58" r="54" fill="none" stroke="#C8511B" stroke-width="2" opacity="0.20"/>
+  <circle cx="1082" cy="58" r="34" fill="none" stroke="#C8511B" stroke-width="2" opacity="0.32"/>
+  <path d="M1004 146 L1068 112 L1132 146 L1068 180 Z" fill="none" stroke="#C8511B" stroke-width="2" opacity="0.26"/>
+  <text x="72" y="116" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700" letter-spacing="0.3">Derek Blissett</text>
+  <text x="72" y="155" fill="#E8EDF7" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="500" letter-spacing="1.1">OPERATIONS  •  PROCESS  •  AI  •  TECHNOLOGY</text>
+  <text x="72" y="229" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="18">Diagnosing the systems behind performance problems.</text>
+</svg>
